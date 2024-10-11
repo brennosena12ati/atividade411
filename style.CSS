@@ -43,14 +43,15 @@ header{
     align-items: center;
 }
 
-.terceira{
+.terceira {
     margin: 2rem 0;
     padding: 2rem;
     background-color: #fff;
     border-radius: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 img{
